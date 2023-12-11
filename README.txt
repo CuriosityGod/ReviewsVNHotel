@@ -1,19 +1,24 @@
-A Review in file: 
-   {
-        "reviewerName": "Duong V. H. ",
-        "hotelId": "3000010037660",
-        "overallScore": "6.0",
-        "originalReviewText": null,
-        "reviewText": "phòng cách âm không tốt, vòi nước nhà tắm bị hỏng",
-        "cleanlinessScore": "6.0",
-        "comfortScore": "6.0",
-        "serviceScore": "6.0",
-        ...
-    }
+Data info:
+   Number of reviews: 33.701
+   Number of Hotels: 3.401
 
-A Hotel in file
-        {
-          "id": "9000000477895",
+Sample:
+   A Review in file: 
+         {
+              "reviewerName": "Duong V. H. ",
+              "hotelId": "3000010037660",
+              "overallScore": "6.0",
+              "originalReviewText": null,
+              "reviewText": "phòng cách âm không tốt, vòi nước nhà tắm bị hỏng",
+              "cleanlinessScore": "6.0",
+              "comfortScore": "6.0",
+              "serviceScore": "6.0",
+              ...
+          }
+   
+   A Hotel in file
+         {
+            "id": "9000000477895",
             "name": "Lechamp Tu Le Resort",
             "displayName": "Lechamp Tu Le Resort",
             "address": null,
@@ -27,4 +32,4 @@ A Hotel in file
             "lowRate": "1918740",
             "highRate": null,
             ...
-        }
+         }
